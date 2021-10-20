@@ -1,0 +1,1 @@
+cmd_/home/igor/linux/tools/labs/skels/./kernel_modules/5-oops-mod/oops_mod.mod := { echo  /home/igor/linux/tools/labs/skels/./kernel_modules/5-oops-mod/oops_mod.o;  echo; } > /home/igor/linux/tools/labs/skels/./kernel_modules/5-oops-mod/oops_mod.mod

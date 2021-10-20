@@ -1,0 +1,1 @@
+cmd_/home/igor/linux/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.ko := ld -r -m elf_i386 --build-id=sha1  -T scripts/module.lds -o /home/igor/linux/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.ko /home/igor/linux/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.o /home/igor/linux/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.mod.o;  true

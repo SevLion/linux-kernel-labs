@@ -1,0 +1,1 @@
+cmd_/home/igor/linux/tools/labs/skels/./kernel_modules/4-multi-mod/module.o := ld -m elf_i386   -r -o /home/igor/linux/tools/labs/skels/./kernel_modules/4-multi-mod/module.o /home/igor/linux/tools/labs/skels/./kernel_modules/4-multi-mod/mod1.o /home/igor/linux/tools/labs/skels/./kernel_modules/4-multi-mod/mod2.o
